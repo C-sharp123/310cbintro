@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CLQST绝症组安利条</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <!-- 设置浏览器图标 -->
+    <link rel="icon" href="media/img/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="media/img/favicon.ico" type="image/x-icon" />
+    <!-- 默认主题 -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+    <!--自定义样式-->
+    <style>
+        /* 次要说明内容：灰色、偏小 */
+        #font-gray{
+            font-size: small;
+            color: #7f8c8d;
+        }
+        /* 背景色+加粗：md加粗语法会覆盖字色修改 */
+        .mark{
+            background-color:#fdeeb3; 
+            font-weight:bold;
+        }
+        /* 悬停上方提示信息 */
+        
+/* Tooltip 容器 */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* 悬停元素上显示点线 */
+}
+ 
+/* Tooltip 文本 */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 150px;
+    background-color: rgba(34, 38, 43, 0.95);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    border-radius: 6px;
+    
+    /* 定位 */
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;    /* 显示在元素上方 */
+    left: 50%;      /* 左侧定位到50%位置 */
+    transform: translateX(-50%);   /* 向左移动自身宽度的50% */
+}
+ 
+/* 鼠标移动上去后显示提示框 */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+    
+    </style>
+</head>
+
+<body>
+    <!-- 定义加载时候的动作 -->
+    <div id="app">加载中...</div>
+    <script>
+        window.$docsify = {
+            // 更新路径配置
+            //basePath: '/310cbintro//',
+            // 项目名称
+            name: 'CLQST绝症组安利条',
+            // 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
+            //repo: 'https://github.com/YSGStudyHards',
+            // 侧边栏支持，默认加载的是项目根目录下的_sidebar.md文件
+            loadSidebar: true,
+            // 导航栏支持，默认加载的是项目根目录下的_navbar.md文件
+            loadNavbar: true,
+            // 封面支持，默认加载的是项目根目录下的_coverpage.md文件
+            coverpage: true,
+            // 固定封面
+            // onlyCover: true,
+            // 最大支持渲染的标题层级
+            maxLevel: 5,
+            // 自定义侧边栏后默认不会再生成目录，设置生成目录的最大层级（建议配置为2-4）
+            subMaxLevel: 4,
+            // 小屏设备下合并导航栏到侧边栏
+            mergeNavbar: true,
+            /*搜索相关设置*/
+            search: {
+                maxAge: 86400000,// 过期时间，单位毫秒，默认一天
+                paths: 'auto',// 注意：仅适用于 paths: 'auto' 模式
+                placeholder: '搜索',              
+                // 支持本地化
+                placeholder: {
+                    '/zh-cn/': '搜索',
+                    '/': 'Type to search'
+                },
+                noData: '找不到结果',
+                depth: 4,
+                hideOtherSidebarContent: false,
+                namespace: 'Docsify-Guide',
+            },
+            //最后更新时间显示
+            timeUpdater: {
+                text: "<div align='right'>last update time: {docsify-updated}</div>",
+                formatUpdated: "{YYYY}/{MM}/{DD}",
+            }
+        };
+    </script>
+    <!-- docsify的js依赖 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <!-- emoji表情支持 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+    <!-- 图片放大缩小支持 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <!-- 搜索功能支持 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <!--在所有的代码块上添加一个简单的Click to copy按钮来允许用户从你的文档中轻易地复制代码-->
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+    <!-- 显示最后更新时间 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+    <!-- 返回顶部 -->
+     <!-- 配置参数，只写所需 -->
+     <!-- <script>
+    docsifyBackTop = {
+        // size: 32,           	// 数值，组件大小，默认值32。
+        // bottom: 15,         	// 数值，组件底部偏移距离，默认值15。
+        // right: 15,          	// 数值，组件右侧偏移距离，默认值15。
+        // logo: '🔝',				// logo:字符串或svg矢量图代码，默认为svg代码图标。
+        //  bgColor: '#42b983'    	// 背景颜色，#fff、pink等，logo为svg图标时，不填。
+    };
+	</script> -->
+    <script src="https://cdn.jsdelivr.net/gh/Sumsung524/docsify-backTop/dist/docsify-backTop.min.js"></script>
+   
+</body>
+
+</html>
