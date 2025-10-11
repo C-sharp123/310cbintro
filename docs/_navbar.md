@@ -10,7 +10,8 @@
 
 * 友情链接
   * [Docsify](https://docsify.js.org/#/)
-  * [博客园](https://www.cnblogs.com/) -->
+  * [博客园](https://www.cnblogs.com/) 
 
 * 联系作者
-  * [LOFTER](https://www.lofter.com/message/c-sharp3)
+  * [邮箱](/README.md#问题反馈)
+  * [LOFTER](https://www.lofter.com/message/c-sharp3)-->

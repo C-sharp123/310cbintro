@@ -1,0 +1,55 @@
+# ============ 核心忽略项 ============
+# 依赖目录 (安装 docsify-cli 时生成)
+node_modules/
+
+# 本地调试缓存文件
+.cache/
+*.tmp
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器配置文件
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ========== docsify 特定项 ==========
+# 本地预览生成的临时文件
+___pycache__/
+*.log
+
+# 用户自定义配置文件 (可能含密钥)
+my-config.js
+private/
+
+# ========== 通用开发项 ============
+# 环境变量文件
+.env
+.env.local
+
+# 构建产物 (如果用构建工具)
+dist/
+build/
+
+# ===== 核弹级防护 =====
+# 禁止所有敏感文件扩展名
+*.key
+*.pem
+*.crt
+*.secret
+*.token
+
+# 禁止配置文件通配
+config.*
+credentials.*
+settings.*
+
+# 禁止数据库文件
+*.db
+*.sqlite
