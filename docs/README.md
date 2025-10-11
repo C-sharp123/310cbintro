@@ -6,7 +6,7 @@
 
 <span id="font-gray">~~(绝症组你们冷到让一个从来不会安利东西的人硬是搓了个安利条，实力)~~</span>
 
-![](media/img/310_kv.webp ":size=60%")<br/>
+![](media/img/310_kv.webp ":size=80%")<br/>
 <span id="font-gray">图源：黑叉官号 Clock over ORQUESTA（クロケスタ）公式（@ClQST_info）</span>
 
 \*注：
@@ -82,7 +82,7 @@
 <span class="tooltiptext">SNS 互动性说白了就是通过投票决定故事走向，可黑叉投票，但大头还是得通过买碟买周边等买买买投票。</span>
 </span>大逃杀题材角色歌曲企划，cv 阵容豪华且部分曲目为术力口 P 供曲。
 
-![](media/img/clqst%20_kv.webp ":size=70%")<br/>
+![](media/img/clqst%20_kv.webp ":size=90%")<br/>
 <span id="font-gray">图源：CLQST b 站官号：CLQST\_官方账号，BV1PQ4y1R7Cq</span>
 
 ## 快速入门
@@ -159,7 +159,7 @@
 
 <span id="font-gray">现实形态 cv：服部想之介 / 梦幻岛形态 cv：白石凉子<br/>角色印象曲提供：すこっぷ</span>
 
-![](media/img/3f_clockoverorquesta.com.webp ":size=70%")<br/>
+![](media/img/3f_clockoverorquesta.com.webp ":size=80%")<br/>
 <span id="font-gray">图源：CLQST 官网（URL：<https://clockoverorquesta.com/character-secondseasonbattle/?c=03>），该图片禁止转载、二次分发等形式的再次使用</span>
 <br/><br/>
 
@@ -172,7 +172,7 @@
 <span id="font-gray">现实形态 cv：鸟海浩辅 / 梦幻岛形态 cv：竹内顺子<br/>
 角色印象曲提供：Nem</span>
 
-![](media/img/10f_clockoverorquesta.com.webp ":size=70%")<br/>
+![](media/img/10f_clockoverorquesta.com.webp ":size=80%")<br/>
 <span id="font-gray">图源：CLQST 官网（URL：<https://clockoverorquesta.com/character-secondseasonbattle/?c=10>），该图片禁止转载、二次分发等形式的再次使用</span>
 <br/><br/>
 
@@ -232,7 +232,7 @@ lft 相关 tag→ [绝症组友好日常](https://www.lofter.com/tag/%E7%BB%9D%E
 
 → 虽然 3 全程我行我素还痛击队友，但 10 并不计较，出现状况第一时间伸出援手，超级温柔一大叔（泪目）
 
-![](media/img/s22ndep6.webp ":size=70%")<br/>
+![](media/img/s22ndep6.webp ":size=90%")<br/>
 <span id="font-gray">机翻：孩子在哭吧？温柔点啊。</span></br>
 <span id="font-gray">图源：油管官号 Clock﻿ over ORQUESTA（@ClockoverORQUESTA），【ストーリー動画】六話子供が泣いてんだろ優しくしろよ(二轮二场战斗六话)</span>
 
@@ -247,7 +247,7 @@ lft 相关 tag→ [绝症组友好日常](https://www.lofter.com/tag/%E7%BB%9D%E
 
 <span id="font-gray">\*一图速通绝症组萌萌日常互动模式 →</span>
 <span id="font-gray"><del>如下 x</del></span><br/>
-![](media/img/meme.webp ":size=50%")
+![](media/img/meme.webp ":size=70%")
 
 <details> 
   
@@ -262,7 +262,7 @@ lft 相关 tag→ [绝症组友好日常](https://www.lofter.com/tag/%E7%BB%9D%E
 
 - **猫狗搭配冷热互补**<span id="font-gray">（虽然官方动物塑 3 是鸟 10 是狼，但为了好懂就以猫派狗派概括了）</span>→ 热脸贴冷屁股日常，10 热 3 冷
 
-![](media/img/3rd_anniver_comic.webp ":size=70%")<br/>
+![](media/img/3rd_anniver_comic.webp ":size=90%")<br/>
 <span id="font-gray">总之是 10 兴致高涨硬拉着 3 一起坐旋转茶杯 ↑[\*熟](https://moyesiyinyi.lofter.com/post/3123e50c_2bb9b4d27)</span><br/>
 <span id="font-gray">图源：黑叉官号 Clock over ORQUESTA（クロケスタ）公式（@ClQST_info），3 周年記念ぷちクロケスタ『素敵で楽シイ遊園地～三斗&十紀人編～』</span>
 
@@ -291,7 +291,7 @@ lft 相关 tag→ [绝症组友好日常](https://www.lofter.com/tag/%E7%BB%9D%E
 
 → 失去行动能力的 10 被拖到了 3 所在的地方，队友间的久别重逢寒暄 ↓
 
-![](media/img/s22ndep5-1.webp ":size=70%")<br/>
+![](media/img/s22ndep5-1.webp ":size=90%")<br/>
 <span id="font-gray">机翻：毫不客气地把我拖走！我的屁股、损失了百分之几吧！</span><br/>
 <span id="font-gray">图源：油管官号 Clock﻿ over ORQUESTA（@ClockoverORQUESTA），【ストーリー動画】五話みんな曲がらなかったらどうなっちゃうの（二轮二场战斗五话）</span>
 <br/><br/>
@@ -300,7 +300,7 @@ lft 相关 tag→ [绝症组友好日常](https://www.lofter.com/tag/%E7%BB%9D%E
 
 以及在 clqst 的主线背景下，他俩无论谁能够实现愿望对另一位来说都非常残酷，他们之间只有非此即彼的结局吗？是否存在更好的解法？能否在对立的局面取得一个平衡点？两位关系的后续走向就有了大量的想象空间。
 
-![](media/img/s22ndep5-2.webp ":size=70%")<br/>
+![](media/img/s22ndep5-2.webp ":size=90%")<br/>
 <span id="font-gray">机翻：<br/>
 不破十纪人：我想让这场恶作剧的战斗和这个世界全部结束。<br/>
 小豆泽三斗：在实现愿望之前不想结束的人，必须要妨碍你。</span><br/>
