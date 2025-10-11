@@ -6,7 +6,7 @@
 
 <span id="font-gray">~~(绝症组你们冷到让一个从来不会安利东西的人硬是搓了个安利条，实力)~~</span>
 
-![](docs/media/img/310_kv.webp ":size=70%")<br/>
+<img src="docs/media/img/310_kv.webp" width="300"><br/>
 <span id="font-gray">图源：黑叉官号 Clock over ORQUESTA（クロケスタ）公式（@ClQST_info）</span>
 
 \*注：
